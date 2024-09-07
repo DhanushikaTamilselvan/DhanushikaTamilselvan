@@ -1,20 +1,23 @@
-## Hi👋 I am Dhanushika
+## <text align = "centre">Hi👋 I am Dhanushika
 
+Computer Science and Engineering Student
+<img align="right" width="170" height="720" src="https://camo.githubusercontent.com/361449d715330d0cc1a1af6d72ed8be6744d8c3d9719a8b76836714194e3e419/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966">
 <!--
 **DhanushikaTamilselvan/DhanushikaTamilselvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning about github
+- 🔭 Here is my [portfolio](https://dhanushikatamilselvan.github.io/portfolio/) 
+- 🌱 I’m currently learning github
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with developing tools
+- 🤔 I’m looking for help with placements
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: dhanushikat.21cse@kongu.edu
+- 📫 How to reach me: <br />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg">(https://www.linkedin.com/in/dhanushika-t-baa53924b/)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   
