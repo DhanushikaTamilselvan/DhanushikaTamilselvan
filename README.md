@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with placements
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: <br />
+- 📫 How to reach me: 
 [<img height="120" width="120" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg">](https://www.linkedin.com/in/dhanushika-t-baa53924b/)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
